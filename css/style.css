@@ -86,6 +86,18 @@ header a{
 	padding: 0px 64px;
 	box-sizing: border-box;
 }
+.col-3 a{
+	text-decoration: none;
+	background: crimson;
+	padding: 12px 29px;
+	display: inline-block;
+	color: #fff;
+	font-size: 20px;
+	border-radius: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	width: 132px;
+}
 .feature-section{
 	overflow:hidden;
 	padding:50px 0;
